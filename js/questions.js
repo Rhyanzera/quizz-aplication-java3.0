@@ -55,6 +55,7 @@ let questions = [
       "Mercúrio e Saturno"
     ]
   },
+  {
       numb: 6,
     question: "Qual o maior planeta do sitema solar??",
     answer: "Jupiter",
@@ -65,6 +66,7 @@ let questions = [
       "Saturno"
     ]
   },
+  {
         numb: 7,
     question: "Qual o menor planeta do sistema solar?",
     answer: "Mercurio",
@@ -75,6 +77,7 @@ let questions = [
       "Mercúrio"
     ]
   },
+  {
         numb: 8,
     question: "Qual planeta Elon Musk quer colonizar?",
     answer: "marte",
@@ -85,6 +88,7 @@ let questions = [
       "jupiter"
     ]
   },
+  {
         numb: 9,
     question: "Qual o jogo mais vendido até hoje?",
     answer: "GtaV",
@@ -95,6 +99,7 @@ let questions = [
       "Pubg"
     ]
   },
+  {
         numb: 10,
     question: "Qual a empresa de jogos mais rica do mundo ?",
     answer: "Sony",
