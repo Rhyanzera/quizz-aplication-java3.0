@@ -58,7 +58,7 @@ let questions = [
   {
       numb: 6,
     question: "Qual o maior planeta do sitema solar??",
-    answer: "Jupiter",
+    answer: "Júpiter",
     options: [
       "Júpiter",
       "Vênus",
@@ -69,7 +69,7 @@ let questions = [
   {
         numb: 7,
     question: "Qual o menor planeta do sistema solar?",
-    answer: "Mercurio",
+    answer: "Mercúrio",
     options: [
       "Júpiter",
       "Lua",
@@ -80,7 +80,7 @@ let questions = [
   {
         numb: 8,
     question: "Qual planeta Elon Musk quer colonizar?",
-    answer: "marte",
+    answer: "Marte",
     options: [
       "Saturno",
       "Mercurio",
